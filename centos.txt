@@ -1,1 +1,2 @@
 mirror.centos.org
+mirror.ox.ac.uk
