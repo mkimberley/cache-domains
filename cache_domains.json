@@ -114,6 +114,11 @@
 			"name": "centos",
 			"description": "CDN for CentOS",
 			"domain_files": ["centos.txt"]
+		},
+		{
+			"name": "ubuntu",
+			"description": "CDN for Ubuntu",
+			"domain_files": ["ubuntu.txt"]
 		}
 	]
 }
