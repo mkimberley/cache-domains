@@ -1,1 +1,2 @@
 archive.ubuntu.com
+gb.archive.ubuntu.com
