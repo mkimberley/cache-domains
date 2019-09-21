@@ -119,6 +119,11 @@
 			"name": "ubuntu",
 			"description": "CDN for Ubuntu",
 			"domain_files": ["ubuntu.txt"]
+		},
+		{
+			"name": "debian",
+			"description": "CDN for Debian",
+			"domain_files": ["debian.txt"]
 		}
 	]
 }
