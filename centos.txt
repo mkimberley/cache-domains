@@ -1,2 +1,4 @@
-mirror.centos.org
 mirror.ox.ac.uk
+debuginfo.centos.org
+buildlogs.centos.org
+vault.centos.org
