@@ -124,12 +124,6 @@
 			"name": "debian",
 			"description": "CDN for Debian",
 			"domain_files": ["debian.txt"]
-		},
-		{
-			"name": "origin",
-			"description": "CDN for origin",
-			"notes": "Should be enabled for HTTP traffic only or with a HTTPS proxy else origin client download fails",
-			"domain_files": ["origin.txt"]
 		}
 	]
 }
