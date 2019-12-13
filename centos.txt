@@ -23,4 +23,6 @@ mirrors.ukfast.co.uk
 mirror.vorboss.net
 anorien.csc.warwick.ac.uk
 mirror.mhd.uk.as44574.net
+epel.mirror.it2go.eu
+
 
