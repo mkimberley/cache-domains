@@ -124,6 +124,11 @@
 			"name": "debian",
 			"description": "CDN for Debian",
 			"domain_files": ["debian.txt"]
+		},
+		{
+			"name": "origin",
+			"description": "CDN for Origin",
+			"domain_files": ["origin.txt"]
 		}
 	]
 }
