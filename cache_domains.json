@@ -129,6 +129,11 @@
 			"name": "ceph",
 			"description": "CDN for ceph",
 			"domain_files": ["ceph.txt"]
+		},
+		{
+			"name": "origin",
+			"description": "CDN for Origin",
+			"domain_files": ["origin.txt"]
 		}
 	]
 }
