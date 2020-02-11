@@ -134,6 +134,11 @@
 			"name": "origin",
 			"description": "CDN for Origin",
 			"domain_files": ["origin.txt"]
+		},
+		{
+			"name": "docker",
+			"description": "CDN for Docker",
+			"domain_files": ["docker.txt"]
 		}
 	]
 }
