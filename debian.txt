@@ -1,2 +1,4 @@
 deb.debian.org
 security.debian.org
+ftp.uk.debian.org
+ftp.is.debian.org
