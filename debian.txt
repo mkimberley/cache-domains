@@ -2,3 +2,4 @@ deb.debian.org
 security.debian.org
 ftp.uk.debian.org
 ftp.is.debian.org
+cdn-fastly.deb.debian.org
