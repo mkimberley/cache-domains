@@ -9,7 +9,6 @@ free.hands.com
 debian.hands.com
 open.hands.com
 ukdebian.mirror.anlx.net
-mirrors.melbourne.co.uk
 mirror.man.bytemark.co.uk
 mirror.yrk.bytemark.co.uk
 mirror.bytemark.co.uk
