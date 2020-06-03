@@ -131,9 +131,9 @@
 			"domain_files": ["origin.txt"]
 		},
 		{
-			"name": "docker",
-			"description": "CDN for Docker",
-			"domain_files": ["docker.txt"]
+			"name": "ubuntu",
+			"description": "CDN for Ubuntu",
+			"domain_files": ["ubuntu.txt"]
 		}
 	]
 }
