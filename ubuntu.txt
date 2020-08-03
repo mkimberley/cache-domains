@@ -1,5 +1,4 @@
 archive.ubuntu.com
 gb.archive.ubuntu.com
 security.ubuntu.com
-apt.kubernetes.io
 packages.cloud.google.com
