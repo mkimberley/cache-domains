@@ -1,4 +1,4 @@
-archive.ubuntu.com
+*.archive.ubuntu.com
 gb.archive.ubuntu.com
 security.ubuntu.com
 packages.cloud.google.com
