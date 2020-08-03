@@ -139,6 +139,11 @@
 			"name": "kubernetes",
 			"description": "CDN for Kubernetes",
 			"domain_files": ["kubernetes.txt"]
+		},
+		{
+			"name": "puppet",
+			"description": "CDN for Kubernetes",
+			"domain_files": ["puppet.txt"]
 		}
 	]
 }
